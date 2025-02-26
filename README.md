@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="440" alt="GitHub Banner">
+  <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="240" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amin</h1>
