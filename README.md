@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="440" alt="GitHub Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h4 align="center">I'm a Web Developer specializing in Frontend Development. I love building user-friendly, interactive, and visually appealing web applications.</h4>
 
@@ -7,11 +11,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminuddinonim" alt="aminuddinonim" /></a> </p>
 
 <h3>About Me</h3>
-- 🌱 I’m currently learning TypeScript,Next.js
+  <div>
+    <ul>
+      <li>🌱 I’m currently learning TypeScript, Next.js</li>
+      <li>💬 Ask me about <b>JavaScript, React, Freelancing Opportunities, etc.</b></li>
+      <li>📫 How to reach me: <b>aminuddin66977@gmail.com</b></li>
+    </ul>
+  </div>
 
-- 💬 Ask me about **JavaScript, React, Freelancing Opportunities etc.**
 
-- 📫 How to reach me **aminuddin66977@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
