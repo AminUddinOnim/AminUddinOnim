@@ -2,11 +2,12 @@
 <p align="center">
   <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="240" alt="GitHub Banner">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminuddinonim&label=Profile%20views&color=0e75b6&style=flat" alt="aminuddinonim" /> </p>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Amin</h1> 
 <h4 align="center">I'm a Web Developer specializing in Frontend Development. I love building user-friendly, interactive, and visually appealing web applications.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminuddinonim&label=Profile%20views&color=0e75b6&style=flat" alt="aminuddinonim" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminuddinonim" alt="aminuddinonim" /></a> </p>
 
