@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="240" alt="GitHub Banner">
+  <img src="https://i.ibb.co.com/bjvNdtJH/banner-2-1.jpg" width="1280" height="200" alt="GitHub Banner">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminuddinonim&label=Profile%20views&color=0e75b6&style=flat" alt="aminuddinonim" /> </p>
 
